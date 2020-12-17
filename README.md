@@ -1,2 +1,2 @@
 # front_meeting_room
-Criando meu gerenciador de salas de reuniões com Java e Angular
+Gerenciador de salas de reuniões desenvolvido em Java e Angular
